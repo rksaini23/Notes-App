@@ -27,6 +27,10 @@ A simple and user-friendly **Notes App built with React** that allows users to c
 4. The task is displayed in the recent notes section.
 5. Tasks are stored in **LocalStorage**, so they are not lost when the page is refreshed or reopened.
 
+6. ## 📸 Project Preview
+
+![Notes App Preview](Screenshot/NotesApp.png)
+
 ## 💻 Getting Started
 
 Clone the repository:
