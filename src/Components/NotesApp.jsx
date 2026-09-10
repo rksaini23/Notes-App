@@ -42,7 +42,7 @@ const NotesApp = () => {
       >
         <h1 className="text-4xl font-bold">Add Notes</h1>
 
-        {/* PHELA INPUT FOR HEADING */}
+        {/* PEHLA INPUT FOR HEADING */}
         <input
           className="border-2 rounded font-medium w-full px-5 py-2 outline-none"
           type="text"
