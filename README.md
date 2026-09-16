@@ -36,7 +36,7 @@ A simple and user-friendly **Notes App built with React** that allows users to c
 Clone the repository:
 
 ```bash
-git clone https://github.com/rksaini23/Notes-App
+git clone https://github.com/rksaini23/Notes-App.git
 ```
 
 Navigate to the project folder:
